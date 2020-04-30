@@ -1,0 +1,14 @@
+{
+    "totalTested": 51185,
+    "lastUpdate": "29.04.2020 10:55:51",
+    "firstTest": "05.02.2020",
+    "lastTest": "28.04.2020",
+    "totalPositive": 1666,
+    "totalNegative": 49519,
+    "percPositive": 0.0325,
+    "prevDayTests": 1677,
+    "prevDayConfirmed": 9,
+    "deceasedCases": 50,
+    "hospitalisedCases": 236,
+    "recoveredCases": 89
+}
