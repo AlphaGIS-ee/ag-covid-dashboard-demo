@@ -44,7 +44,7 @@ The reason behind publishing this document is not to encourage everyone to creat
 More so, the workflow and steps chosen are not always ideal. Instead, the reason behind chosing these ways is to highlight the functionality behind ```arcpy``` and ```arcgis``` libraries and give examples on how to use them. 
 
 For the best experience, please clone/download the repository and import it into ArcGIS Pro 2.5.
-In the ribbon bar navigate to "Insert" and click "Add Notebook".
+In the ribbon bar navigate to "Insert" and click "New Notebook".
 
 ![Add Notebook](img/00_1_add_notebook.png)
 
