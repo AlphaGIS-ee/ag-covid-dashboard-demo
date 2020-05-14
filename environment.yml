@@ -1,0 +1,12 @@
+name: arcgis-environment
+channels:
+  - esri
+  - conda-forge
+
+dependencies:
+  - python=3.6
+  - numpy
+  - pandas >=0.23
+  - pip
+  - matplotlib
+  - arcgis
