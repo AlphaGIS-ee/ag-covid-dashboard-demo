@@ -9,4 +9,4 @@ dependencies:
   - pandas >=0.23
   - pip
   - matplotlib
-  - arcgis
+  - arcgis=1.8
